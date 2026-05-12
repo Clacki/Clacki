@@ -39,16 +39,18 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
+
 ---
 
-## Experience
+## About Me
 
 - UI/UX design background
 - Frontend development with React and TypeScript
 - Backend fundamentals with Java, Spring, and MySQL
 
 ---
-## Project
+
+## Projects
 
 ### Fragmnt
 
