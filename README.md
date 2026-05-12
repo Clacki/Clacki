@@ -3,6 +3,7 @@
 # Hi there, I'm Kwangwook Kim 👋
 
 ### Clack by clack, building frontend interfaces
+타닥타닥 만드는 프론트엔드 개발자입니다
 
 </div>
 
@@ -43,23 +44,19 @@
 
 ## Career
 
-- Kaywon University of Art & Design, Digital Media Design
-- Frontend Development Bootcamp
-- Interested in UI/UX, product flow, and user-centered web interfaces
-
+- 계원예술대학교 디지털미디어디자인과 졸업
+- 스마트웹 & 콘텐츠 개발 과정 수료
+- 프론트엔드 개발 부트캠프 수료
 ---
-
-## Projects
+## Project
 
 ### Fragmnt
 
-A fragrance recommendation service that helps users discover, save, and share personalized scent recommendations.
+취향과 상황에 맞는 향기를 추천하고, 추천 결과를 저장·공유할 수 있는 서비스입니다.
 
-- Implemented recommendation flows for photo, chatbot, keyword, and survey-based inputs
-- Built result, save, and share pages
-- Integrated recommendation, save, and share APIs
-- Handled loading, error, and empty states
-- Applied responsive UI for mobile and desktop
+- 추천 방식별 입력 플로우, 결과 페이지, 공유 페이지 구현
+- 추천·저장·공유 API 연동 및 비동기 상태 처리
+- 로딩, 에러, Empty State와 반응형 UI 적용
 
 **Tech Stack**  
 React · TypeScript · Vite · TanStack Router · TanStack Query · Zustand · Axios · Tailwind CSS · Vercel
@@ -68,12 +65,11 @@ React · TypeScript · Vite · TanStack Router · TanStack Query · Zustand · A
 
 ### EXIT
 
-A web service project built with React, TypeScript, Next.js, GraphQL, Recoil, and React Query.
+비상 상황 및 안전 관련 사용자 흐름을 중심으로 구현한 웹 서비스 프로젝트입니다.
 
-- Implemented frontend pages and user flows
-- Integrated GraphQL APIs
-- Managed client-side state and asynchronous data
-- Improved interface structure based on user flow
+- Next.js 기반 화면 및 사용자 흐름 구현
+- GraphQL API 연동
+- Recoil, React Query 기반 상태 및 비동기 데이터 관리
 
 **Tech Stack**  
 React · TypeScript · Next.js · GraphQL · Recoil · React Query · Axios · Docker
