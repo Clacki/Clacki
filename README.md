@@ -2,8 +2,7 @@
 
 # Hi there, I'm Kwangwook Kim 👋
 
-### Clack by clack, building frontend interfaces
-타닥타닥 만드는 프론트엔드 개발자입니다
+### Clack by clack, crafting frontend interfaces
 
 </div>
 
