@@ -43,9 +43,9 @@
 
 ## Experience
 
-- UI/UX 디자인 전공
-- 스마트웹 & 콘텐츠 개발 과정 수료
-- 프론트엔드 개발 부트캠프 수료
+- UI/UX design background
+- Frontend development with React and TypeScript
+- Backend fundamentals with Java, Spring, and MySQL
 
 ---
 ## Project
