@@ -1,16 +1,49 @@
-## Hi there 👋
+# Kwangwook Kim
 
-<!--
-**Clacki/Clacki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building user-centered interfaces.
 
-Here are some ideas to get you started:
+I have a background in UI/UX design and enjoy turning product ideas into clear, usable web experiences.  
+I care about user flow, interface structure, and maintainable frontend implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Frontend**  
+React · TypeScript · JavaScript · Vite · Next.js · Tailwind CSS
+
+**State & Data**  
+TanStack Query · Zustand · Recoil · Axios · GraphQL
+
+**Tools**  
+Git · GitHub · Figma · Vercel
+
+## Featured Projects
+
+### Fragmnt
+
+A fragrance recommendation service that provides personalized scent recommendations through photo, chatbot, keyword, and survey-based flows.
+
+**Role**  
+Frontend Developer
+
+**What I worked on**
+
+- Implemented recommendation selection and input flow pages
+- Built result, save, and share pages
+- Integrated recommendation, save, and share APIs
+- Handled loading, error, and empty states
+- Applied responsive UI for mobile and desktop
+
+### EXIT
+
+A web service project built with React, TypeScript, Next.js, GraphQL, Recoil, and React Query.
+
+**What I worked on**
+
+- Implemented frontend pages and user flows
+- Integrated GraphQL APIs
+- Managed client-side state and asynchronous data
+- Improved interface structure based on user flow
+
+## Contact
+
+Email: qwer6613@gmail.com
