@@ -41,11 +41,12 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
 ---
 
-## Career
+## Experience
 
-- 계원예술대학교 디지털미디어디자인과 졸업
+- UI/UX 디자인 전공
+- 스마트웹 & 콘텐츠 개발 과정 수료
 - 프론트엔드 개발 부트캠프 수료
-  
+
 ---
 ## Project
 
